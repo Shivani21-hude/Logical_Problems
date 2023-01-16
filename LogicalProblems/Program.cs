@@ -5,7 +5,8 @@ namespace LogicalProblems
     {
         static void Main(string[] args)
         {
-            FibinacciSeries.Fibonacci();
+            //FibinacciSeries.Fibonacci();
+            PerfectNumber.PerfectNum();
         }
     }
 }
