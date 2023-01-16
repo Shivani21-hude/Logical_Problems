@@ -8,7 +8,8 @@ namespace LogicalProblems
             //FibinacciSeries.Fibonacci();
             //PerfectNumber.PerfectNum();
             //PrimeNumber.PrimeNum();
-            ReverseNumber.ReverseNum();
+            //ReverseNumber.ReverseNum();
+            Coupon.CouponNum();
         }
     }
 }
