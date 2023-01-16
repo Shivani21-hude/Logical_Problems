@@ -7,7 +7,8 @@ namespace LogicalProblems
         {
             //FibinacciSeries.Fibonacci();
             //PerfectNumber.PerfectNum();
-            PrimeNumber.PrimeNum();
+            //PrimeNumber.PrimeNum();
+            ReverseNumber.ReverseNum();
         }
     }
 }
