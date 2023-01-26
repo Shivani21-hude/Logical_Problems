@@ -9,7 +9,10 @@ namespace LogicalProblems
             //PerfectNumber.PerfectNum();
             //PrimeNumber.PrimeNum();
             //ReverseNumber.ReverseNum();
-            Coupon.CouponNum();
+           // Coupon.CouponNum();
+           StopWatch stopWatch=new StopWatch(); 
+            stopWatch.Selection();
+          
         }
     }
 }
