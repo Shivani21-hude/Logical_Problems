@@ -16,7 +16,8 @@ namespace LogicalProblems
             //VendingMachine.VendingMachineCalculate();
             //TemperatureConversion.Fehrenheit();
             //MonthlyPayment.CalculatePayment();
-            SqrtRoot.SquareRoot();
+            //SqrtRoot.SquareRoot();
+            DecimalToBinary.DecimalConversion();
         }
     }
 }
