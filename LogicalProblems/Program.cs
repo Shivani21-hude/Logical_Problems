@@ -13,7 +13,8 @@ namespace LogicalProblems
             //StopWatch stopWatch=new StopWatch(); 
             //stopWatch.Selection();
             //DayofWeek.DayWeek();
-            VendingMachine.VendingMachineCalculate();
+            //VendingMachine.VendingMachineCalculate();
+            TemperatureConversion.Fehrenheit();
         }
     }
 }
