@@ -17,7 +17,8 @@ namespace LogicalProblems
             //TemperatureConversion.Fehrenheit();
             //MonthlyPayment.CalculatePayment();
             //SqrtRoot.SquareRoot();
-            DecimalToBinary.DecimalConversion();
+            //DecimalToBinary.DecimalConversion();
+            SwapNibblesofBinary.SwappingOfNibbles();
         }
     }
 }
