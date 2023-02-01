@@ -10,8 +10,9 @@ namespace LogicalProblems
             //PrimeNumber.PrimeNum();
             //ReverseNumber.ReverseNum();
            // Coupon.CouponNum();
-           StopWatch stopWatch=new StopWatch(); 
-            stopWatch.Selection();
+           //StopWatch stopWatch=new StopWatch(); 
+            //stopWatch.Selection();
+            DayofWeek.DayWeek();
           
         }
     }
