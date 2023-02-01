@@ -14,7 +14,8 @@ namespace LogicalProblems
             //stopWatch.Selection();
             //DayofWeek.DayWeek();
             //VendingMachine.VendingMachineCalculate();
-            TemperatureConversion.Fehrenheit();
+            //TemperatureConversion.Fehrenheit();
+            MonthlyPayment.CalculatePayment();
         }
     }
 }
