@@ -15,7 +15,8 @@ namespace LogicalProblems
             //DayofWeek.DayWeek();
             //VendingMachine.VendingMachineCalculate();
             //TemperatureConversion.Fehrenheit();
-            MonthlyPayment.CalculatePayment();
+            //MonthlyPayment.CalculatePayment();
+            SqrtRoot.SquareRoot();
         }
     }
 }
