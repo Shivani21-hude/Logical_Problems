@@ -9,11 +9,11 @@ namespace LogicalProblems
             //PerfectNumber.PerfectNum();
             //PrimeNumber.PrimeNum();
             //ReverseNumber.ReverseNum();
-           // Coupon.CouponNum();
-           //StopWatch stopWatch=new StopWatch(); 
+            // Coupon.CouponNum();
+            //StopWatch stopWatch=new StopWatch(); 
             //stopWatch.Selection();
-            DayofWeek.DayWeek();
-          
+            //DayofWeek.DayWeek();
+            VendingMachine.VendingMachineCalculate();
         }
     }
 }
